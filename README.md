@@ -2,7 +2,7 @@
 
 Proyecto académico · Ingeniería Civil en Informática · Universidad de Los Lagos
 
-**Integrantes:** Nicolás
+**Integrantes:** Nicolás Paredes
 
 ## Cómo ejecutar en GitHub Codespaces
 
@@ -21,7 +21,7 @@ php -S 0.0.0.0:8080 -t /workspaces/$(ls /workspaces | head -1)
 ### 3. Abrir la app
 Pestaña **Ports** → puerto **8080** → ícono de globo 🌐
 
-La URL pública tendrá el formato: `https://XXXX-8080.app.github.dev`
+La URL pública tendrá el formato: `[https://XXXX-8080.app.github.dev](https://effective-space-parakeet-pxjxp6xx75jf7499-8080.app.github.dev/)`
 
 ## Estructura
 ```
